@@ -19,10 +19,11 @@
 =======
     "@babel/node": "^7.22.19",
     "@babel/preset-env": "^7.6.0",
-    "eslint": "^6.4.0",
-    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint": "^8.0.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-standard": "^17.1.0",
     "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-jest": "^27.4.0",
+    "eslint-plugin-react": "^7.33.2",
     "jest": "^29.7.0"
 >>>>>>> 5d5d01d021c182b4ede8c86f39b8a75ddd47f017
   }
