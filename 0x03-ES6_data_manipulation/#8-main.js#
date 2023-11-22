@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+import cleanSet from './8-clean_set.js'
+
+console.log(cleanSet(new Set(['bonjovi', 'bonaparte', 'bonappetit', 'banana']), 'bon'))
+console.log(cleanSet(new Set(['bonjovi', 'bonaparte', 'bonappetit', 'banana']), ''))
+=======
+import cleanSet from "./8-clean_set.js";
+
+console.log(cleanSet(new Set(['bonjovi', 'bonaparte', 'bonappetit', 'banana']), 'bon'));
+console.log(cleanSet(new Set(['bonjovi', 'bonaparte', 'bonappetit', 'banana']), ''));
+>>>>>>> 4b5428ae784b8412e608e97542cb14018562ec09
